@@ -10,14 +10,7 @@ void Zadacha1()
         }
         return array;
     }
-    // int[] NumberArray(int[] array)
-    // {
-    //     for (int i = 0; i < array.Length; i++)
-    //     {
-    //         array[i]*=-1;
-    //     }
-    //     return array;
-    // }
+
     int FindingEvenNumbers(int[] array)
     {
         int even = 0;
